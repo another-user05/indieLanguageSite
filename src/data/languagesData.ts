@@ -88,7 +88,7 @@ export const languages: Language[] = [
   {
     },
   {
-    name: "X44,
+    name: "X44",
     slug: "x44",
     tagline: "Advanced, but not advanced enough for a noddle brain... or it is, i have no idea. ",
     logo: "/logos/x44logo.png",
