@@ -86,6 +86,17 @@ export const languages: Language[] = [
     github: "https://github.com/ddededodediamante/ddehighlight"
   },
   {
+    },
+  {
+    name: "X44,
+    slug: "x44",
+    tagline: "Advanced, but not advanced enough for a noddle brain... or it is, i have no idea. ",
+    logo: "/logos/x44logo.png",
+    description: "You know X3? The one a few blocks over? Yeah i'm his cousin. I'm basically better. Not to flex tho, he's good too!",
+    discord: "https://discord.gg/fFd9pNMCcm",
+    github: "https://github.com/AnikuHere/x44/tree/main"
+  },
+  {
     name: "CM2L",
     slug: "cm2l",
     tagline: "Designed to run on all CPU's",
