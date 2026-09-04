@@ -86,8 +86,6 @@ export const languages: Language[] = [
     github: "https://github.com/ddededodediamante/ddehighlight"
   },
   {
-    },
-  {
     name: "X44",
     slug: "x44",
     tagline: "Advanced, but not advanced enough for a noddle brain... or it is, i have no idea. ",
@@ -114,4 +112,11 @@ export const languages: Language[] = [
   website: "https://crz.network:21212/x-lang/",
   discord: "https://discord.gg/NxFePPqZgA",
 },
+{
+  name: "By+",
+  slug: "byplus",
+  tagline: "letters? i hardLY know 'em!",
+  logo: "/logos/byplus.png",
+  description: "by+, probably one of the only esolangs to have emojis as commands! it is only interpreted, and it has been only ran on ROBOT IS CHILL, and due to the hard nature of emojis, is hard to port to other languages"
+}
 ];
