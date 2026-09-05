@@ -123,7 +123,7 @@ export const languages: Language[] = [
   name: "CL#",
   slug: "clash",
   tagline: "it certainly exists",
-  logo: "/logos/cl#.png",
+  logo: "/logos/clash.png",
   description: "CL# (aka Coding Language Hash, or Clash) is a somewhat stack-oriented language inspired by Uiua and similar languages"
 }
 ];
